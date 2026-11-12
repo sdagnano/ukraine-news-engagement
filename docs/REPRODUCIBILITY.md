@@ -33,3 +33,5 @@ Historical helpers can use optional sibling work/pydeps or work/readr_deps direc
 ## Interpretation
 
 The predictor is a released automatic label. Linked raw texts, matched independent human annotations and impressions are not available for these analyses. Hypothetical corrections are outcome-informed sensitivity calculations. Numerical verification does not establish semantic label validity, causal identification or calibrated interval coverage. The delivered checks do not constitute an independent external replication or a fresh full execution of every model and simulation.
+
+Text files use LF line endings. Integrity fingerprints refer to the exact repository snapshot; original upstream download hashes remain unchanged.

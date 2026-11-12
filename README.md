@@ -52,3 +52,5 @@ The data downloader checks exact versioned SHA256 hashes. Original datasets are 
 The Ukrainian processed release is associated with Kyrychenko, Brik, van der Linden and Roozenbeek (2024), [Social identity correlates of social media engagement before and after the 2022 Russian invasion of Ukraine](https://doi.org/10.1038/s41467-024-52179-8), [OSF rmc3e](https://osf.io/rmc3e/). The retained external-setting reference input is from Pipal and colleagues, [OSF 68cje](https://osf.io/68cje/).
 
 See [DATA_PROVENANCE.md](docs/DATA_PROVENANCE.md) and [REUSE_AND_ATTRIBUTION.md](REUSE_AND_ATTRIBUTION.md) for input provenance and reuse scope. Citation metadata for this repository are in CITATION.cff.
+
+Text files use LF line endings. Integrity fingerprints refer to the exact repository snapshot; original upstream download hashes remain unchanged.
