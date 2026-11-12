@@ -1,0 +1,36 @@
+{
+  "binary_covariates": [
+    "solidarity",
+    "ingroup_mention",
+    "outgroup_mention",
+    "has_media",
+    "has_URL"
+  ],
+  "continuous_distance_covariates": [
+    "moral_emotional_z",
+    "positive_z",
+    "negative_z"
+  ],
+  "same_binary_strata": 111355,
+  "propensity_fit": {
+    "keep": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "gradient": 3.7219225092993525e-16,
+    "mixed_cells": 13199,
+    "zero_cells": 1389,
+    "one_cells": 101,
+    "max_intercept_score": 1.999822529796802e-10,
+    "iterations": 5,
+    "min_information_eigenvalue": 309.0189391066975,
+    "condition": 360.98756136727746
+  },
+  "note": "Distances are Euclidean in full-release SD units. Thresholds are diagnostic choices, not positivity proofs. Bounding boxes are not convex-hull guarantees. Propensity model is in-sample, with observed all-H cells at boundary0/1; it is neither a causal assignment model nor validated overlap probability."
+}

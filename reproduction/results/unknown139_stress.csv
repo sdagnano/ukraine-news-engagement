@@ -1,0 +1,9 @@
+target_channel,selection,omitted,original_beta,refitted_beta,refitted_total,scope
+Likes,raise_coefficient,139,-95.03482209301126,-46.50214878398437,-49.399413667003245,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Likes,lower_coefficient,139,-95.03482209301126,-133.98763708268896,-178.52928895256292,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Love,raise_coefficient,139,-8.810786960107954,-3.762292866787663,-63.619534866503244,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Love,lower_coefficient,139,-8.810786960107954,-12.835386120678857,-161.88685759852177,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Angry,raise_coefficient,139,12.141514554305816,14.938336067547002,-106.16006265807097,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Angry,lower_coefficient,139,12.141514554305816,6.965156686467093,-142.02272152202437,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Haha,raise_coefficient,139,4.259779665767849,7.0458897361442725,-103.54973489665298,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."
+Haha,lower_coefficient,139,4.259779665767849,0.3981354217201875,-134.14310936626947,"Influence-selected stress subset, not identification of original omitted139 and not a globally sharp deletion bound."

@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "n": 535936,
+  "source_day_cells": 14689,
+  "covariate_columns": 9,
+  "threshold_rows": 32,
+  "channels": [
+    "Likes",
+    "Love",
+    "Angry",
+    "Haha",
+    "Sad",
+    "Wow",
+    "Comments",
+    "Shares"
+  ],
+  "targets": [
+    "count",
+    "any"
+  ],
+  "correction_classes": [
+    "positive_label_corrections_only",
+    "either_label_corrections"
+  ],
+  "direct_cell_OLS_boundary_refits": 64,
+  "all_boundaries_identified": true,
+  "direct_cell_OLS_refit_max_error": 1.165768870325934e-13,
+  "matched_old_focal_rows": 16,
+  "all_old_focal_thresholds_identical": true,
+  "old_focal_beta_max_error": 4.413136522884997e-13,
+  "finite_denominator_minimum": 88168.22111054501,
+  "fixed_null_nuisance_argument": "Residualize each outcome against source-day cells and all non-H covariates once. The numerator Hstar.T@Yres is linear in corrected Hstar; its sign determines OLS slope whenever Hstar residual sum of squares is positive. Ranking beneficial signed numerator reductions yields the minimum unit-cost point-sign crossing in each declared correction class.",
+  "limitations": "Arbitrary outcome-informed hypothetical corrections; not actual annotation errors, realistic-error constraints, interval-sign thresholds or behavioral validity. No new raw texts or labels.",
+  "elapsed_seconds": 20.479006052017212
+}

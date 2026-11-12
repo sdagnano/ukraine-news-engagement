@@ -1,0 +1,23 @@
+{
+  "seed": 687125,
+  "all_identified_positive_label_correction_subsets_checked": 63,
+  "unidentified_all_zero_label_subset_excluded": 1,
+  "all_null_score_signs_match_refitted_slopes": true,
+  "all_identified_binary_candidates_in_either_label_toy_checked": 252,
+  "cell_constant_unidentified_candidates_excluded_in_either_label_toy": 4,
+  "all_finite_fits_have_full_positive_row_rank": true,
+  "separating_toy_correctly_inconclusive": {
+    "no_additional_slope_separation_certified": false,
+    "status": "inconclusive_rank_deficiency_requires_feasibility_check",
+    "positive_row_within_cell_rank": 0,
+    "slope_columns": 1,
+    "positive_rows": 2,
+    "positive_cells": 2,
+    "all_zero_cells": 0,
+    "scaled_gram_min_eigenvalue": 0.0,
+    "scaled_gram_max_eigenvalue": 0.0,
+    "rank_threshold": 1e-10,
+    "relative_tolerance": 1e-10,
+    "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+  }
+}

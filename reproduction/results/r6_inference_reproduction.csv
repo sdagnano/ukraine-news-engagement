@@ -1,0 +1,5 @@
+design,scenario,method,valid_matches,conditional_noncoverage_matches,original_valid,recovered_valid,original_noncoverage,recovered_noncoverage
+full,source_and_block_slopes,PPML,True,True,100,100,0.3,0.3
+full,source_and_block_slopes,any_OLS,True,True,100,100,0.01,0.01
+subsample,independent_NB,PPML,True,True,397,397,0.1586901763224181,0.15869017632241814
+subsample,independent_NB,any_OLS,True,True,485,485,0.0618556701030927,0.061855670103092786

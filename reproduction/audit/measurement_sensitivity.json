@@ -1,0 +1,5 @@
+{
+  "seed": 893417,
+  "high_Angry_cutoff": 42.0,
+  "scope": "Assumption-driven correction fractions among observed labels. No human ground truth or identified misclassification model. Quantiles describe simulated labels conditional on assumptions, not sampling confidence."
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "model": "day",
+    "sources": 78,
+    "raw_pattern": 27,
+    "posterior_mean_pattern": 68,
+    "posterior_joint_over95": 47,
+    "mean_joint_probability": 0.846702564102564,
+    "success": true,
+    "gradient": 0.0014570661049968863,
+    "gradient_check": 9.95184042734496e-10,
+    "attempt_losses": [
+      -450.9619556763593,
+      -450.9619556764603,
+      -450.9619556762665,
+      -450.5819460075005,
+      -450.9619556761222
+    ],
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "REML_loss": -450.9619556764603,
+    "between_source_sd": {
+      "Likes": 37.85609929442451,
+      "Love": 3.825523628210774,
+      "Angry": 6.996808442289997,
+      "Haha": 1.049862637910181
+    },
+    "assumptions": "Gaussian exchangeability, estimated sampling covariance treated as known, conditional hyperparameters, independent source errors; common cross-source shocks not identified by within-source block variance."
+  },
+  {
+    "model": "block14",
+    "sources": 78,
+    "raw_pattern": 27,
+    "posterior_mean_pattern": 34,
+    "posterior_joint_over95": 0,
+    "mean_joint_probability": 0.35666794871794877,
+    "success": true,
+    "gradient": 5.038367396749497e-05,
+    "gradient_check": 1.5740953795178557e-09,
+    "attempt_losses": [
+      -421.94395054311394,
+      -421.9439505431099,
+      -421.943950543111,
+      -421.94395054310826,
+      -421.94395054309945
+    ],
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "REML_loss": -421.94395054311394,
+    "between_source_sd": {
+      "Likes": 8.775512998496056,
+      "Love": 1.159888110573098,
+      "Angry": 3.4460185170801454,
+      "Haha": 2.814979304601325
+    },
+    "assumptions": "Gaussian exchangeability, estimated sampling covariance treated as known, conditional hyperparameters, independent source errors; common cross-source shocks not identified by within-source block variance."
+  },
+  {
+    "model": "block14_volume",
+    "sources": 78,
+    "raw_pattern": 27,
+    "posterior_mean_pattern": 55,
+    "posterior_joint_over95": 22,
+    "mean_joint_probability": 0.641373076923077,
+    "success": true,
+    "gradient": 0.00010817125507567235,
+    "gradient_check": 9.367004279015345e-10,
+    "attempt_losses": [
+      -407.0318110779495,
+      -409.71867687688285,
+      -407.03181107794813,
+      -407.03181107794876,
+      -409.7186768768843
+    ],
+    "message": "Optimization terminated successfully",
+    "REML_loss": -409.7186768768843,
+    "between_source_sd": {
+      "Likes": 13.032920052802993,
+      "Love": 2.582831415429492,
+      "Angry": 1.8142032227912843,
+      "Haha": 0.30264547079465604
+    },
+    "assumptions": "Gaussian exchangeability, estimated sampling covariance treated as known, conditional hyperparameters, independent source errors; common cross-source shocks not identified by within-source block variance."
+  }
+]

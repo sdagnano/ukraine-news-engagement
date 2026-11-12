@@ -1,0 +1,30 @@
+[
+  {
+    "design": "subsample",
+    "scenario": "independent_NB",
+    "replicates": 500,
+    "refitted": true,
+    "seconds": 208.5963688000047
+  },
+  {
+    "design": "subsample",
+    "scenario": "source_slopes",
+    "replicates": 500,
+    "refitted": false,
+    "seconds": 18.76796050000121
+  },
+  {
+    "design": "subsample",
+    "scenario": "source_and_block_slopes",
+    "replicates": 500,
+    "refitted": false,
+    "seconds": 18.709957299986854
+  },
+  {
+    "design": "full",
+    "scenario": "source_and_block_slopes",
+    "replicates": 100,
+    "refitted": true,
+    "seconds": 542.5897246999957
+  }
+]

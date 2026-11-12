@@ -1,0 +1,9 @@
+design,scenario,channel,any_projection_truth,PPML_logRR_truth
+full,source_and_block_slopes,Likes,-0.008029528327830368,0.0
+full,source_and_block_slopes,Love,-0.011861018787507529,0.0
+full,source_and_block_slopes,Angry,-0.022013667865296134,0.0
+full,source_and_block_slopes,Haha,-0.02521705400996389,0.0
+full,source_and_block_slopes,Sad,-0.014174943137097919,0.0
+full,source_and_block_slopes,Wow,-0.01947762111201344,0.0
+full,source_and_block_slopes,Comments,-0.025683855464443562,0.0
+full,source_and_block_slopes,Shares,-0.0265122380332451,0.0

@@ -1,0 +1,1531 @@
+{
+  "mode": "check",
+  "passed": true,
+  "absolute_tolerance": 1e-10,
+  "comparison_count": 277,
+  "checks": [
+    {
+      "field": "channels.exact_channel_set",
+      "passed": true
+    },
+    {
+      "field": "channels.Likes.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.observed_mean",
+      "passed": true,
+      "absolute_error": 5.684341886080802e-14
+    },
+    {
+      "field": "channels.Likes.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 8.326672684688674e-17
+    },
+    {
+      "field": "channels.Likes.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 1.3877787807814457e-17
+    },
+    {
+      "field": "channels.Likes.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Likes.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Love.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 5.551115123125783e-17
+    },
+    {
+      "field": "channels.Love.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Love.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Angry.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.PPML_mean1",
+      "passed": true,
+      "absolute_error": 3.552713678800501e-15
+    },
+    {
+      "field": "channels.Angry.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Angry.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Haha.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.PPML_delta",
+      "passed": true,
+      "absolute_error": 4.440892098500626e-16
+    },
+    {
+      "field": "channels.Haha.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 5.551115123125783e-17
+    },
+    {
+      "field": "channels.Haha.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Haha.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Sad.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 3.552713678800501e-15
+    },
+    {
+      "field": "channels.Sad.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Sad.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Wow.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 4.547473508864641e-13
+    },
+    {
+      "field": "channels.Wow.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Wow.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Comments.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 5.551115123125783e-17
+    },
+    {
+      "field": "channels.Comments.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Comments.design",
+      "passed": true
+    },
+    {
+      "field": "channels.Shares.OLS_count_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_delta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.observed_mean",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.observed_zeros",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.observed_maximum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.PPML_beta_H",
+      "passed": true,
+      "absolute_error": 4.5102810375396984e-17
+    },
+    {
+      "field": "channels.Shares.observed_zero_fraction",
+      "passed": true,
+      "absolute_error": 5.551115123125783e-17
+    },
+    {
+      "field": "channels.Shares.maximum_over_observed_mean",
+      "passed": true,
+      "absolute_error": 4.547473508864641e-13
+    },
+    {
+      "field": "channels.Shares.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "channels.Shares.design",
+      "passed": true
+    },
+    {
+      "field": "canonical.population.platform",
+      "passed": true
+    },
+    {
+      "field": "canonical.population.posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.dates",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.both_H_source_day_posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.both_H_source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.both_H_source_day_post_fraction",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.population.both_H_subset_sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.positive_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.negative_magnitude",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.net",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.gross_absolute_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.cancellation",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.negative_to_positive",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.nonlike_five_reaction_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.OLS_count.source_day_log1p_total_beta",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.positive_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.negative_magnitude",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.net",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.gross_absolute_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.cancellation",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.negative_to_positive",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.percent_change",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.total_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.nonlike_five_reaction_delta_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.mean0_weighted_channel_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.saved_joint_net",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.PPML_sum_of_separate_channel_models.status",
+      "passed": true
+    },
+    {
+      "field": "canonical.relative_composition.ratio_of_ratios",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.log_ratio_of_ratios",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.shares_log_component",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.likes_decline_log_component",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.shares_fraction_of_log_ratio",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.likes_fraction_of_log_ratio",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.ratio_of_standardized_means_H0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.ratio_of_standardized_means_H1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.Shares_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.Likes_RR",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.relative_composition.estimand",
+      "passed": true
+    },
+    {
+      "field": "canonical.relative_composition.observed_Likes_zero_posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.coarsening.canonical_nonlike_OLS",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[0][0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[1][0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[1][1]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[1][2]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[1][3]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[1][4]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[2][0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.partition_groups[3][0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.coarsening.original_eight_channel_cancellation",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.coarsening.four_channel_cancellation",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.platform_row_sum.Facebook_posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.platform_row_sum.Twitter_posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.platform_row_sum.arithmetic_sum",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.platform_row_sum.status",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_scope",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.raw_posts",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.raw_sources",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.raw_dates",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.raw_source_day_cells",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[1]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[2]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[3]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[4]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[5]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[6]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[7]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.design_columns[8]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.focal_column",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[0]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[1]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[2]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[3]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[4]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[5]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[6]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.nuisance_columns[7]",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.OLS_channel_saved_max_abs_error",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.OLS_total_direct",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.OLS_total_sum_components",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.OLS_total_identity_abs_error",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.OLS_coarsening_direct_max_abs_error",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.OLS_nonlike_direct",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.log_total_saved_abs_error",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.observed_total_equals_sum_components",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.partition_nonnegative",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[0]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[1]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[2]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[3]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[4]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[5]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[6]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.partition_column_sums[7]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.projected_four_channels[0]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.projected_four_channels[1]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.projected_four_channels[2]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.projected_four_channels[3]",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[0].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[0].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[0].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[0].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[1].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[1].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[1].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[1].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[2].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[2].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[2].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[2].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[3].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[3].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[3].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[3].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[4].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[4].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[4].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[4].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[5].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[5].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[5].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[5].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[6].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[6].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[6].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[6].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[7].channel",
+      "passed": true
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[7].mean0",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[7].mean1",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_saved_parameters_reconstruction[7].max_abs_error_saved",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "canonical.identity_checks.PPML_reconstructed_max_abs_error",
+      "passed": true,
+      "absolute_error": 0.0
+    },
+    {
+      "field": "identity_tolerance.OLS_channel_saved_max_abs_error",
+      "passed": true,
+      "absolute_error": 5.684341886080802e-14
+    },
+    {
+      "field": "identity_tolerance.OLS_total_identity_abs_error",
+      "passed": true,
+      "absolute_error": 9.947598300641403e-14
+    },
+    {
+      "field": "identity_tolerance.OLS_coarsening_direct_max_abs_error",
+      "passed": true,
+      "absolute_error": 1.1937117960769683e-12
+    },
+    {
+      "field": "identity_tolerance.log_total_saved_abs_error",
+      "passed": true,
+      "absolute_error": 2.0122792321330962e-16
+    },
+    {
+      "field": "identity_tolerance.PPML_reconstructed_max_abs_error",
+      "passed": true,
+      "absolute_error": 5.684341886080802e-14
+    },
+    {
+      "field": "identity.observed_total_equals_sum_components",
+      "passed": true
+    },
+    {
+      "field": "raw_support_vs_saved.posts",
+      "passed": true
+    },
+    {
+      "field": "raw_support_vs_saved.sources",
+      "passed": true
+    },
+    {
+      "field": "raw_support_vs_saved.source_day_cells",
+      "passed": true
+    },
+    {
+      "field": "raw_support_vs_saved.both_H_source_day_posts",
+      "passed": true
+    },
+    {
+      "field": "raw_support_vs_saved.both_H_source_day_cells",
+      "passed": true
+    },
+    {
+      "field": "identity.PPML_delta_sum_vs_saved_joint",
+      "passed": true,
+      "absolute_error": 1.4210854715202004e-14
+    },
+    {
+      "field": "identity.log_ratio_components",
+      "passed": true,
+      "absolute_error": 2.7755575615628914e-17
+    }
+  ],
+  "canonical_summary": {
+    "population": {
+      "platform": "Facebook",
+      "posts": 535936,
+      "sources": 84,
+      "dates": 200,
+      "source_day_cells": 14689,
+      "both_H_source_day_posts": 523246,
+      "both_H_source_day_cells": 13199,
+      "both_H_source_day_post_fraction": 0.9763217996178648,
+      "both_H_subset_sources": 82
+    },
+    "OLS_count": {
+      "positive_sum": 16.401294220073666,
+      "negative_magnitude": 134.35105504607338,
+      "net": -117.94976082599972,
+      "gross_absolute_sum": 150.75234926614706,
+      "cancellation": 0.21759255228743224,
+      "negative_to_positive": 8.191491064262486,
+      "nonlike_five_reaction_sum": -17.403117412286743,
+      "source_day_log1p_total_beta": -0.0276516871495828
+    },
+    "PPML_sum_of_separate_channel_models": {
+      "positive_sum": 15.180798354252238,
+      "negative_magnitude": 115.57196587746239,
+      "net": -100.39116752321016,
+      "gross_absolute_sum": 130.75276423171462,
+      "cancellation": 0.2322061555402294,
+      "negative_to_positive": 7.61303609866407,
+      "mean0": 610.6236114989736,
+      "mean1": 510.23244397576343,
+      "percent_change": -16.44076082756896,
+      "total_RR": 0.8355923917243104,
+      "nonlike_five_reaction_delta_sum": -14.527164947029739,
+      "mean0_weighted_channel_RR": 0.8355923917243104,
+      "saved_joint_net": -100.39116752321014,
+      "status": "Sum of eight separately fitted nonnegative channel means; no PPML fit of total outcome"
+    },
+    "relative_composition": {
+      "ratio_of_ratios": 1.2821925509665484,
+      "log_ratio_of_ratios": 0.24857154298196238,
+      "shares_log_component": 0.016159816938101545,
+      "likes_decline_log_component": 0.23241172604386087,
+      "shares_fraction_of_log_ratio": 0.06501072787432544,
+      "likes_fraction_of_log_ratio": 0.9349892721256747,
+      "ratio_of_standardized_means_H0": 0.11373036572959015,
+      "ratio_of_standardized_means_H1": 0.1458242277571817,
+      "Shares_RR": 1.0162910929587068,
+      "Likes_RR": 0.7926197139365702,
+      "estimand": "(m_Shares,1/m_Likes,1)/(m_Shares,0/m_Likes,0); not E[Shares/Likes]",
+      "observed_Likes_zero_posts": 62977
+    }
+  },
+  "raw_identity_checks": {
+    "raw_posts": 535936,
+    "raw_sources": 84,
+    "raw_dates": 200,
+    "raw_source_day_cells": 14689,
+    "design_columns": [
+      "solidarity",
+      "hostility",
+      "ingroup_mention",
+      "outgroup_mention",
+      "moral_emotional_z",
+      "positive_z",
+      "negative_z",
+      "has_media",
+      "has_URL"
+    ],
+    "focal_column": "hostility",
+    "nuisance_columns": [
+      "solidarity",
+      "ingroup_mention",
+      "outgroup_mention",
+      "moral_emotional_z",
+      "positive_z",
+      "negative_z",
+      "has_media",
+      "has_URL"
+    ],
+    "OLS_channel_saved_max_abs_error": 5.684341886080802e-14,
+    "OLS_total_direct": -117.94976082599975,
+    "OLS_total_sum_components": -117.94976082599965,
+    "OLS_total_identity_abs_error": 9.947598300641403e-14,
+    "OLS_coarsening_direct_max_abs_error": 1.1937117960769683e-12,
+    "OLS_nonlike_direct": -17.403117412287333,
+    "log_total_saved_abs_error": 2.0122792321330962e-16,
+    "observed_total_equals_sum_components": true,
+    "partition_nonnegative": true,
+    "partition_column_sums": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "projected_four_channels": [
+      -95.03482209301,
+      -17.403117412287333,
+      -5.49573897650485,
+      -0.01608234419691025
+    ],
+    "PPML_saved_parameters_reconstruction": [
+      {
+        "channel": "Likes",
+        "mean0": 394.24519803553494,
+        "mean1": 312.48651608779215,
+        "max_abs_error_saved": 5.684341886080802e-14
+      },
+      {
+        "channel": "Love",
+        "mean0": 32.01256036809727,
+        "mean1": 24.483201136597888,
+        "max_abs_error_saved": 0.0
+      },
+      {
+        "channel": "Angry",
+        "mean0": 13.369527463323442,
+        "mean1": 24.188044896215658,
+        "max_abs_error_saved": 3.552713678800501e-15
+      },
+      {
+        "channel": "Haha",
+        "mean0": 11.177820449799594,
+        "mean1": 14.80964703784127,
+        "max_abs_error_saved": 0.0
+      },
+      {
+        "channel": "Sad",
+        "mean0": 74.57600518064756,
+        "mean1": 53.88825134049138,
+        "max_abs_error_saved": 7.105427357601002e-15
+      },
+      {
+        "channel": "Wow",
+        "mean0": 3.187951805499924,
+        "mean1": 2.4275559091918515,
+        "max_abs_error_saved": 0.0
+      },
+      {
+        "channel": "Comments",
+        "mean0": 37.216897636354794,
+        "mean1": 32.38112267459886,
+        "max_abs_error_saved": 7.105427357601002e-15
+      },
+      {
+        "channel": "Shares",
+        "mean0": 44.837650559716074,
+        "mean1": 45.568104893034416,
+        "max_abs_error_saved": 7.105427357601002e-15
+      }
+    ],
+    "PPML_reconstructed_max_abs_error": 5.684341886080802e-14
+  },
+  "scientific_metadata": {
+    "producer": "analysis/r7_reproduce_composition.py",
+    "absolute_tolerance": 1e-10,
+    "input_paths_relative_to_project": true,
+    "specification": "full-release source-day cell models",
+    "observed_descriptives": "Computed independently from the released raw channel rows",
+    "source_files": [
+      {
+        "path": "input/fb_proua_full_osf.RDS",
+        "sha256": "f6f77b5192f6bbe1dea64225deeb5944d9b6b838896d00842c64062558ccccdd"
+      },
+      {
+        "path": "results/cell_OLS.csv",
+        "sha256": "bf2129ccd4291b772dac0b8541a55b0c29e7ea0f2b49343612ccb2c81c754f8a"
+      },
+      {
+        "path": "results/cell_PPML.csv",
+        "sha256": "9d951dd191a59c50964c86e1b56e3ea904090b4a2c40200f70ee4fd8d2e7b654"
+      },
+      {
+        "path": "results/cell_support.csv",
+        "sha256": "4bd878a432a6c9b5e30ec0614f4716afd3331f620428cc457645d5101f087dd2"
+      },
+      {
+        "path": "results/cell_joint.csv",
+        "sha256": "6c34f5aa4ea2c935d48bfef99c40d4e69db64ba3f69fe68027c121bcf3aa1a05"
+      },
+      {
+        "path": "results/scale_bridge.csv",
+        "sha256": "8ab27015e12fbcd1a39ab252e87a42fde40447ee73721a220e5f07964f3ca3f9"
+      },
+      {
+        "path": "results/cell_model_parameters.npz",
+        "sha256": "7019031892f3f4ba8fbc85a5e7b38803d54b95751e3d31aa3ef7f8aab65cdf83"
+      }
+    ]
+  }
+}

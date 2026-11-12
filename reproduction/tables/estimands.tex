@@ -1,0 +1,12 @@
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{23mm}>{\raggedright\arraybackslash}p{27mm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X}
+\toprule
+Target & Units & Population and weights & Interpretation/assumptions \\
+\midrule
+Any-action projection & Percentage points & All released posts; equal post weights; source-day effects & Linear partial association in whether a post records an action; probability predictions need not stay in $[0,1]$ \\
+Count projection & Actions/post & Same posts and design & Arithmetic partial projection; fitted counts can be negative \\
+PPML ratio and difference & Ratio; actions/post & Label-standardized predictions averaged over observed posts & Exponential mean specification; boundary cells; fixed-other-covariate label comparison \\
+Positive-count projection & Actions/positive post & Channel-specific $Y_k>0$ subset & Selection-conditional association; not a component coefficient in a regression-product identity \\
+Tail contribution & Count-coefficient units & Same full-sample projection operator; response-defined masks & Exact signed bookkeeping, not causal attribution or an independent sample \\
+Source hierarchy & Source slopes and conditional probabilities & Eligible source estimates; covariance-dependent REML/empirical Bayes weights & Normal exchangeability and known-covariance approximation; no identified latent sign prevalence \\
+\bottomrule
+\end{tabularx}

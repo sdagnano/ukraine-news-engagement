@@ -1,0 +1,50 @@
+[
+  {
+    "platform": "facebook",
+    "released_window": 535936,
+    "deposited_script_strict_before_12Sep": 533370,
+    "Sep12_posts": 2566,
+    "max_released_log_difference": 4.987447667303968e-06,
+    "missing_original_controls": [
+      "total_tokens",
+      "Followers.at.Posting",
+      "followers_count"
+    ],
+    "REML": [
+      {
+        "lambda_ratio": 1.7306966404085822,
+        "residual_variance": 1.749443979178837,
+        "optimizer_success": true
+      },
+      {
+        "lambda_ratio": 0.10446496868537031,
+        "residual_variance": 16364024.070736384,
+        "optimizer_success": true
+      }
+    ]
+  },
+  {
+    "platform": "twitter",
+    "released_window": 217245,
+    "deposited_script_strict_before_12Sep": 214882,
+    "Sep12_posts": 2363,
+    "max_released_log_difference": 2.842170943040401e-14,
+    "missing_original_controls": [
+      "total_tokens",
+      "Followers.at.Posting",
+      "followers_count"
+    ],
+    "REML": [
+      {
+        "lambda_ratio": 2.858220427656316,
+        "residual_variance": 0.9168686997588082,
+        "optimizer_success": true
+      },
+      {
+        "lambda_ratio": 23.330352728236143,
+        "residual_variance": 55283.882619067925,
+        "optimizer_success": true
+      }
+    ]
+  }
+]

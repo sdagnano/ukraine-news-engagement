@@ -1,0 +1,5 @@
+design,scenario,method,replicates,valid,invalid,invalid_fraction,joint_noncoverage_count,conditional_joint_noncoverage,operational_failure_count,operational_failure_rate,operational_failure_MC_low,operational_failure_MC_high,false_opposition_count
+full,source_and_block_slopes,PPML,100,100,0,0.0,30,0.3,30,0.3,0.2189488529493276,0.3958485463334666,0.0
+full,source_and_block_slopes,any_OLS,100,100,0,0.0,1,0.01,1,0.01,0.0017674320641406505,0.054486196178705315,
+subsample,independent_NB,PPML,500,397,103,0.206,63,0.15869017632241814,166,0.332,0.2921404418575132,0.3744213365375685,2.0
+subsample,independent_NB,any_OLS,500,485,15,0.03,30,0.061855670103092786,45,0.09,0.0679425478891394,0.11830941128933344,

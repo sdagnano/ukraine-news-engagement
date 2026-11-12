@@ -1,0 +1,14 @@
+\begin{tabular}{lllrrrrr}
+\toprule
+Design & DGP & Method & Reps & Noncoverage & MC interval & Opposite & Invalid \\
+\midrule
+10\% & A: independent & PPML & 500 & 0.159 & [0.126, 0.198] & 0.005 & 0.206 \\
+10\% & A: independent & Any OLS & 500 & 0.062 & [0.044, 0.087] & -- & 0.030 \\
+10\% & B: source & PPML & 500 & 0.317 & [0.278, 0.359] & 0.000 & 0.004 \\
+10\% & B: source & Any OLS & 500 & 0.016 & [0.008, 0.031] & -- & 0.000 \\
+10\% & C: source + block & PPML & 500 & 0.208 & [0.175, 0.246] & 0.000 & 0.000 \\
+10\% & C: source + block & Any OLS & 500 & 0.008 & [0.003, 0.020] & -- & 0.000 \\
+Full & C: source + block & PPML & 100 & 0.300 & [0.219, 0.396] & 0.000 & 0.000 \\
+Full & C: source + block & Any OLS & 100 & 0.010 & [0.002, 0.054] & -- & 0.000 \\
+\bottomrule
+\end{tabular}

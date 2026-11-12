@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "seed": 503172,
+  "logit_vs_full_dummy_coefficient_max_error": 1.484227185599707e-10,
+  "logit_vs_full_dummy_prediction_max_error": 1.1536249733268278e-10,
+  "symmetric_decomposition_max_error": 1.4210854715202004e-14,
+  "full_dummy_optimizer_method": "scipy trust-exact, analytic full-dummy Hessian",
+  "full_dummy_optimizer_success": true,
+  "full_dummy_score": 9.580897186722837e-10
+}

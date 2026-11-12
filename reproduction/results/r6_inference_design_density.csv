@@ -1,0 +1,3 @@
+design,posts,cells,posts_per_cell,singleton_cells,median_cell_size,minimum_cell_size,maximum_cell_size
+full,535936,14689,36.4855333923344,323,25.0,1,398
+subsample,53686,12190,4.404101722723544,2767,3.0,1,54

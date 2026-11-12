@@ -1,0 +1,17 @@
+channel,target,mode,old_minimum,new_minimum,minimum_matches,beta_max_absolute_error
+Likes,count,positive_label_corrections_only,2310,2310,True,1.1350729384185243e-13
+Likes,count,either_label_corrections,74,74,True,4.413136522884997e-13
+Love,count,positive_label_corrections_only,2162,2162,True,2.1718737919229625e-14
+Love,count,either_label_corrections,51,51,True,4.1869285816176216e-14
+Angry,count,positive_label_corrections_only,204,204,True,2.696974588101142e-14
+Angry,count,either_label_corrections,181,181,True,1.6604773112049998e-14
+Haha,count,positive_label_corrections_only,38,38,True,1.9104509640932577e-14
+Haha,count,either_label_corrections,38,38,True,1.9104509640932577e-14
+Likes,any,positive_label_corrections_only,1650,1650,True,4.5102810375396984e-17
+Likes,any,either_label_corrections,1647,1647,True,4.5102810375396984e-17
+Love,any,positive_label_corrections_only,6810,6810,True,7.194782557272753e-17
+Love,any,either_label_corrections,5908,5908,True,1.566049570025322e-16
+Angry,any,positive_label_corrections_only,14297,14297,True,2.8662832605432995e-16
+Angry,any,either_label_corrections,13672,13672,True,5.3402886225541873e-17
+Haha,any,positive_label_corrections_only,1764,1764,True,1.5299320851543986e-16
+Haha,any,either_label_corrections,1478,1478,True,2.266931217395629e-16

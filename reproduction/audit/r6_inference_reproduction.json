@@ -1,0 +1,53 @@
+{
+  "seed": 918347,
+  "all_aggregate_results_reproduced": true,
+  "checks": [
+    {
+      "design": "full",
+      "scenario": "source_and_block_slopes",
+      "method": "PPML",
+      "valid_matches": true,
+      "conditional_noncoverage_matches": true,
+      "original_valid": 100,
+      "recovered_valid": 100,
+      "original_noncoverage": 0.3,
+      "recovered_noncoverage": 0.3
+    },
+    {
+      "design": "full",
+      "scenario": "source_and_block_slopes",
+      "method": "any_OLS",
+      "valid_matches": true,
+      "conditional_noncoverage_matches": true,
+      "original_valid": 100,
+      "recovered_valid": 100,
+      "original_noncoverage": 0.01,
+      "recovered_noncoverage": 0.01
+    },
+    {
+      "design": "subsample",
+      "scenario": "independent_NB",
+      "method": "PPML",
+      "valid_matches": true,
+      "conditional_noncoverage_matches": true,
+      "original_valid": 397,
+      "recovered_valid": 397,
+      "original_noncoverage": 0.1586901763224181,
+      "recovered_noncoverage": 0.15869017632241814
+    },
+    {
+      "design": "subsample",
+      "scenario": "independent_NB",
+      "method": "any_OLS",
+      "valid_matches": true,
+      "conditional_noncoverage_matches": true,
+      "original_valid": 485,
+      "recovered_valid": 485,
+      "original_noncoverage": 0.0618556701030927,
+      "recovered_noncoverage": 0.061855670103092786
+    }
+  ],
+  "conditioning": "Channel-specific results are supplied both conditional on own-channel validity and on the validity of the full eight-channel family. Operational failure equals invalid family OR simultaneous noncoverage.",
+  "separation": "Solver messages are classified using positive-cell design rank. Full-rank ill conditioning or divergence is not a mathematical separation diagnosis.",
+  "target": "Full source/block DGP reference marginalizes redrawn slopes. Coverage is not assessed for a fixed finite-source conditional parameter, and does not estimate empirical-data error probabilities."
+}

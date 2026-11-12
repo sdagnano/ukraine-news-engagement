@@ -1,0 +1,645 @@
+{
+  "fits": [
+    {
+      "support_rule": "full_release",
+      "channel": "Likes",
+      "condition": 245.53205735623527,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 472959,
+        "positive_cells": 14219,
+        "all_zero_cells": 470,
+        "scaled_gram_min_eigenvalue": 0.05553644699274585,
+        "scaled_gram_max_eigenvalue": 2.141231407027608,
+        "rank_threshold": 2.141231407027608e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Love",
+      "condition": 247.78883251564713,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 226955,
+        "positive_cells": 13022,
+        "all_zero_cells": 1667,
+        "scaled_gram_min_eigenvalue": 0.04749957414683241,
+        "scaled_gram_max_eigenvalue": 2.1893440815072873,
+        "rank_threshold": 2.1893440815072875e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Angry",
+      "condition": 279.6666534230368,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 214332,
+        "positive_cells": 12826,
+        "all_zero_cells": 1863,
+        "scaled_gram_min_eigenvalue": 0.053148383930728973,
+        "scaled_gram_max_eigenvalue": 2.161718655084454,
+        "rank_threshold": 2.1617186550844538e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Haha",
+      "condition": 469.21935681926175,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 177616,
+        "positive_cells": 12326,
+        "all_zero_cells": 2363,
+        "scaled_gram_min_eigenvalue": 0.038771658901121345,
+        "scaled_gram_max_eigenvalue": 2.136035216244124,
+        "rank_threshold": 2.136035216244124e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Sad",
+      "condition": 553.234613765173,
+      "iterations": 5,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 187690,
+        "positive_cells": 12588,
+        "all_zero_cells": 2101,
+        "scaled_gram_min_eigenvalue": 0.05524756912677992,
+        "scaled_gram_max_eigenvalue": 2.2233944820348137,
+        "rank_threshold": 2.2233944820348139e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Wow",
+      "condition": 268.4061108135816,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 184116,
+        "positive_cells": 12235,
+        "all_zero_cells": 2454,
+        "scaled_gram_min_eigenvalue": 0.053905720071360755,
+        "scaled_gram_max_eigenvalue": 2.149118790503899,
+        "rank_threshold": 2.149118790503899e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Comments",
+      "condition": 377.5387409728795,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 353685,
+        "positive_cells": 13662,
+        "all_zero_cells": 1027,
+        "scaled_gram_min_eigenvalue": 0.04867775713154742,
+        "scaled_gram_max_eigenvalue": 2.138420684108013,
+        "rank_threshold": 2.138420684108013e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "full_release",
+      "channel": "Shares",
+      "condition": 368.8326660171584,
+      "iterations": 5,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 367417,
+        "positive_cells": 13622,
+        "all_zero_cells": 1067,
+        "scaled_gram_min_eigenvalue": 0.05534828377681431,
+        "scaled_gram_max_eigenvalue": 2.1646894086226522,
+        "rank_threshold": 2.1646894086226523e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Likes",
+      "condition": 385.2133393375944,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 348516,
+        "positive_cells": 11653,
+        "all_zero_cells": 344,
+        "scaled_gram_min_eigenvalue": 0.04665230316313721,
+        "scaled_gram_max_eigenvalue": 2.119393153930377,
+        "rank_threshold": 2.119393153930377e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Love",
+      "condition": 392.5514734617725,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 163863,
+        "positive_cells": 10544,
+        "all_zero_cells": 1453,
+        "scaled_gram_min_eigenvalue": 0.04299302641530641,
+        "scaled_gram_max_eigenvalue": 2.1771438727213472,
+        "rank_threshold": 2.1771438727213474e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Angry",
+      "condition": 397.1072796895712,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 167852,
+        "positive_cells": 10686,
+        "all_zero_cells": 1311,
+        "scaled_gram_min_eigenvalue": 0.0464897235239068,
+        "scaled_gram_max_eigenvalue": 2.112226344952639,
+        "rank_threshold": 2.112226344952639e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Haha",
+      "condition": 1257.1012000707854,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 134537,
+        "positive_cells": 9901,
+        "all_zero_cells": 2096,
+        "scaled_gram_min_eigenvalue": 0.03355573362129019,
+        "scaled_gram_max_eigenvalue": 2.114230344230941,
+        "rank_threshold": 2.1142303442309413e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Sad",
+      "condition": 758.8428682507314,
+      "iterations": 5,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 142334,
+        "positive_cells": 10357,
+        "all_zero_cells": 1640,
+        "scaled_gram_min_eigenvalue": 0.04894761024145489,
+        "scaled_gram_max_eigenvalue": 2.1812734660711155,
+        "rank_threshold": 2.1812734660711157e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Wow",
+      "condition": 526.6901728942995,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 138611,
+        "positive_cells": 9958,
+        "all_zero_cells": 2039,
+        "scaled_gram_min_eigenvalue": 0.05079457162320748,
+        "scaled_gram_max_eigenvalue": 2.1078343973815774,
+        "rank_threshold": 2.1078343973815775e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Comments",
+      "condition": 636.2365543546185,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 265561,
+        "positive_cells": 11161,
+        "all_zero_cells": 836,
+        "scaled_gram_min_eigenvalue": 0.042228313683382965,
+        "scaled_gram_max_eigenvalue": 2.1234506484558966,
+        "rank_threshold": 2.1234506484558966e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_profile",
+      "channel": "Shares",
+      "condition": 506.86229433902315,
+      "iterations": 5,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 272434,
+        "positive_cells": 11147,
+        "all_zero_cells": 850,
+        "scaled_gram_min_eigenvalue": 0.04694923430687273,
+        "scaled_gram_max_eigenvalue": 2.1450087877114608,
+        "rank_threshold": 2.145008787711461e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Likes",
+      "condition": 205.78609691785474,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 85631,
+        "positive_cells": 7185,
+        "all_zero_cells": 212,
+        "scaled_gram_min_eigenvalue": 0.054055967343821135,
+        "scaled_gram_max_eigenvalue": 1.9955771085030611,
+        "rank_threshold": 1.9955771085030612e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Love",
+      "condition": 234.18157829385962,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 33783,
+        "positive_cells": 5708,
+        "all_zero_cells": 1689,
+        "scaled_gram_min_eigenvalue": 0.05225331482435419,
+        "scaled_gram_max_eigenvalue": 2.003677890758751,
+        "rank_threshold": 2.003677890758751e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Angry",
+      "condition": 167.28734981053958,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 41582,
+        "positive_cells": 6266,
+        "all_zero_cells": 1131,
+        "scaled_gram_min_eigenvalue": 0.059452971272165665,
+        "scaled_gram_max_eigenvalue": 2.0113117901799247,
+        "rank_threshold": 2.0113117901799247e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Haha",
+      "condition": 1374.2759712922239,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 30631,
+        "positive_cells": 5438,
+        "all_zero_cells": 1959,
+        "scaled_gram_min_eigenvalue": 0.038075432672681334,
+        "scaled_gram_max_eigenvalue": 2.000628482362173,
+        "rank_threshold": 2.0006284823621732e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Sad",
+      "condition": 167.04807108931672,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 31820,
+        "positive_cells": 5656,
+        "all_zero_cells": 1741,
+        "scaled_gram_min_eigenvalue": 0.06140853221616027,
+        "scaled_gram_max_eigenvalue": 2.043241457018652,
+        "rank_threshold": 2.0432414570186519e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Wow",
+      "condition": 250.61009797957792,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 30572,
+        "positive_cells": 5425,
+        "all_zero_cells": 1972,
+        "scaled_gram_min_eigenvalue": 0.07502775698190231,
+        "scaled_gram_max_eigenvalue": 1.9873137020695393,
+        "rank_threshold": 1.9873137020695394e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Comments",
+      "condition": 188.42352189725506,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 60837,
+        "positive_cells": 6633,
+        "all_zero_cells": 764,
+        "scaled_gram_min_eigenvalue": 0.05499816994289454,
+        "scaled_gram_max_eigenvalue": 2.0022681471747696,
+        "rank_threshold": 2.0022681471747697e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN05",
+      "channel": "Shares",
+      "condition": 163.16417278558714,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 61816,
+        "positive_cells": 6579,
+        "all_zero_cells": 818,
+        "scaled_gram_min_eigenvalue": 0.05593264672877486,
+        "scaled_gram_max_eigenvalue": 2.005159101731831,
+        "rank_threshold": 2.0051591017318308e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Likes",
+      "condition": 205.7712816896187,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 187594,
+        "positive_cells": 9616,
+        "all_zero_cells": 277,
+        "scaled_gram_min_eigenvalue": 0.04420585628030272,
+        "scaled_gram_max_eigenvalue": 2.00368592904579,
+        "rank_threshold": 2.0036859290457901e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Love",
+      "condition": 208.66435453530124,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 82375,
+        "positive_cells": 8152,
+        "all_zero_cells": 1741,
+        "scaled_gram_min_eigenvalue": 0.043014398814301094,
+        "scaled_gram_max_eigenvalue": 2.007304719214273,
+        "rank_threshold": 2.007304719214273e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Angry",
+      "condition": 248.73766940534043,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 94396,
+        "positive_cells": 8702,
+        "all_zero_cells": 1191,
+        "scaled_gram_min_eigenvalue": 0.049382873939817815,
+        "scaled_gram_max_eigenvalue": 2.0007066521197636,
+        "rank_threshold": 2.0007066521197636e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Haha",
+      "condition": 1750.7863434253143,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 72780,
+        "positive_cells": 7772,
+        "all_zero_cells": 2121,
+        "scaled_gram_min_eigenvalue": 0.037321060582508475,
+        "scaled_gram_max_eigenvalue": 2.0064314975993325,
+        "rank_threshold": 2.0064314975993325e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Sad",
+      "condition": 267.9676771676033,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 76296,
+        "positive_cells": 8150,
+        "all_zero_cells": 1743,
+        "scaled_gram_min_eigenvalue": 0.051708791467345,
+        "scaled_gram_max_eigenvalue": 2.017170841623062,
+        "rank_threshold": 2.017170841623062e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Wow",
+      "condition": 293.65566149927275,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 74153,
+        "positive_cells": 7793,
+        "all_zero_cells": 2100,
+        "scaled_gram_min_eigenvalue": 0.05898008363807582,
+        "scaled_gram_max_eigenvalue": 1.9907361473996683,
+        "rank_threshold": 1.9907361473996685e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Comments",
+      "condition": 274.581689284591,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 141858,
+        "positive_cells": 9047,
+        "all_zero_cells": 846,
+        "scaled_gram_min_eigenvalue": 0.04412052043915156,
+        "scaled_gram_max_eigenvalue": 2.0049617952622785,
+        "rank_threshold": 2.0049617952622786e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    },
+    {
+      "support_rule": "same_binary_NN1",
+      "channel": "Shares",
+      "condition": 182.6355712430109,
+      "iterations": 4,
+      "separation": {
+        "no_additional_slope_separation_certified": true,
+        "status": "full_positive_row_within_cell_rank",
+        "positive_row_within_cell_rank": 9,
+        "slope_columns": 9,
+        "positive_rows": 142715,
+        "positive_cells": 9036,
+        "all_zero_cells": 857,
+        "scaled_gram_min_eigenvalue": 0.045328215450682774,
+        "scaled_gram_max_eigenvalue": 2.0111759057603837,
+        "rank_threshold": 2.0111759057603838e-10,
+        "relative_tolerance": 1e-10,
+        "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+      }
+    }
+  ],
+  "interpretation": "Each row refits both linear projections and PPML on the indicated outcome-independent measured-X support subset. Covariate SD scaling is fixed from the original full release; sample, cells, coefficients, and standardization population change. These refits are separate from the two-part NN05 rows, which restrict the reference population without refitting. No validated confidence intervals or causal interpretation."
+}

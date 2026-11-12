@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "separation_certificates": 89,
+  "PPML_sharp_thresholds": 16,
+  "actual_OLS_path_refits": 49,
+  "annotation_rows": 1431,
+  "annotation_sources": 84,
+  "empty_blinded_forms_verified": true,
+  "sampling_weights_recover_population": true,
+  "selected_correction_records": 6925,
+  "baseline_matches_original_RR_max_absolute_error": 6.639133687258436e-14
+}

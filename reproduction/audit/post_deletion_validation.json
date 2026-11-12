@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "facebook",
+    "channel": "Likes",
+    "max_single_deletion_formula_error": 5.5289106626332796e-14
+  },
+  {
+    "platform": "facebook",
+    "channel": "Love",
+    "max_single_deletion_formula_error": 1.7069679003611782e-14
+  },
+  {
+    "platform": "facebook",
+    "channel": "Angry",
+    "max_single_deletion_formula_error": 2.120525977034049e-14
+  },
+  {
+    "platform": "facebook",
+    "channel": "Haha",
+    "max_single_deletion_formula_error": 8.715250743307479e-15
+  },
+  {
+    "platform": "twitter",
+    "channel": "favorite_count",
+    "max_single_deletion_formula_error": 5.523359547510154e-15
+  },
+  {
+    "platform": "twitter",
+    "channel": "retweet_count",
+    "max_single_deletion_formula_error": 1.1102230246251565e-16
+  }
+]

@@ -1,0 +1,17 @@
+design,scenario,channel,alpha,observed_zero,calibrated_zero,Poisson_lower_bound_binding,simulated_zero,observed_q99,mean_simulated_q99
+full,source_and_block_slopes,Likes,1.4922565605034883,0.11750843384284691,0.11750843384284684,False,,,
+full,source_and_block_slopes,Love,5.315607041057092,0.5765259284690709,0.5765259284690709,False,,,
+full,source_and_block_slopes,Angry,5.123273112999365,0.6000791139240507,0.6000791139240507,False,,,
+full,source_and_block_slopes,Haha,6.124036292076192,0.6685872940052544,0.6685872940052542,False,,,
+full,source_and_block_slopes,Sad,7.247351496360932,0.6497902734654885,0.6497902734654886,False,,,
+full,source_and_block_slopes,Wow,2.7999769931940377,0.6564589801767375,0.6564589801767379,False,,,
+full,source_and_block_slopes,Comments,2.0345137641841577,0.34006112670169575,0.3400611267016957,False,,,
+full,source_and_block_slopes,Shares,1.2127086163775311,0.31443866431812756,0.3144386643181274,False,,,
+full,source_and_block_slopes,Likes,,,,,0.11758316291497493,5553.0,5342.051000000018
+full,source_and_block_slopes,Love,,,,,0.576489618163363,535.0,539.7355000000016
+full,source_and_block_slopes,Angry,,,,,0.6005677170408407,292.0,314.9695000000007
+full,source_and_block_slopes,Haha,,,,,0.6683702904824458,249.65000000002328,242.7590000000014
+full,source_and_block_slopes,Sad,,,,,0.6503151682290422,887.6500000000233,1132.419000000006
+full,source_and_block_slopes,Wow,,,,,0.657425588129926,42.0,46.93
+full,source_and_block_slopes,Comments,,,,,0.3400984632493432,546.0,520.7790000000014
+full,source_and_block_slopes,Shares,,,,,0.3154650928469072,601.0,663.9215000000025

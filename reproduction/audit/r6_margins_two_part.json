@@ -1,0 +1,389 @@
+{
+  "fits": [
+    {
+      "channel": "Likes",
+      "fit_posts": 513146,
+      "excluded_posts": 22790,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 5.3051232641112885e-14,
+        "mixed_cells": 5515,
+        "zero_cells": 0,
+        "one_cells": 6916,
+        "max_intercept_score": 1.9948487306464813e-10,
+        "iterations": 4,
+        "min_information_eigenvalue": 52.66159421776558,
+        "condition": 501.76398943527136
+      },
+      "positive_excess_ppml": {
+        "beta_H": -0.23257365839566957,
+        "gradient": 2.316918597748335e-13,
+        "condition": 244.61691943848942,
+        "zero_excess_cells": 37,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 429542,
+          "positive_cells": 12394,
+          "all_zero_cells": 37,
+          "scaled_gram_min_eigenvalue": 0.055977911044248846,
+          "scaled_gram_max_eigenvalue": 2.1537689185951328,
+          "rank_threshold": 2.1537689185951327e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 9.094947017729282e-13
+    },
+    {
+      "channel": "Love",
+      "fit_posts": 467828,
+      "excluded_posts": 68108,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 1.500001126067709e-16,
+        "mixed_cells": 9854,
+        "zero_cells": 0,
+        "one_cells": 210,
+        "max_intercept_score": 1.999538312702498e-10,
+        "iterations": 4,
+        "min_information_eigenvalue": 423.0117426629849,
+        "condition": 337.5295898322096
+      },
+      "positive_excess_ppml": {
+        "beta_H": -0.16729624593648704,
+        "gradient": 1.7993100493316017e-14,
+        "condition": 249.207599702747,
+        "zero_excess_cells": 125,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 167336,
+          "positive_cells": 9939,
+          "all_zero_cells": 125,
+          "scaled_gram_min_eigenvalue": 0.04657787038657344,
+          "scaled_gram_max_eigenvalue": 2.1866079000344505,
+          "rank_threshold": 2.1866079000344505e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 6.821210263296962e-13
+    },
+    {
+      "channel": "Angry",
+      "fit_posts": 482430,
+      "excluded_posts": 53506,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 4.6756513497089523e-17,
+        "mixed_cells": 10227,
+        "zero_cells": 0,
+        "one_cells": 127,
+        "max_intercept_score": 1.9945645135521772e-10,
+        "iterations": 4,
+        "min_information_eigenvalue": 438.28771858944395,
+        "condition": 336.24088425775733
+      },
+      "positive_excess_ppml": {
+        "beta_H": 0.4287044787186977,
+        "gradient": 7.668965410820839e-14,
+        "condition": 279.8138553195746,
+        "zero_excess_cells": 152,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 159020,
+          "positive_cells": 10202,
+          "all_zero_cells": 152,
+          "scaled_gram_min_eigenvalue": 0.055845560576010464,
+          "scaled_gram_max_eigenvalue": 2.1594009972225225,
+          "rank_threshold": 2.1594009972225225e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 1.8189894035458565e-12
+    },
+    {
+      "channel": "Haha",
+      "fit_posts": 446005,
+      "excluded_posts": 89931,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 1.7367812687727618e-13,
+        "mixed_cells": 8932,
+        "zero_cells": 0,
+        "one_cells": 98,
+        "max_intercept_score": 1.999644894112862e-10,
+        "iterations": 3,
+        "min_information_eigenvalue": 361.77093556461034,
+        "condition": 342.7135485306761
+      },
+      "positive_excess_ppml": {
+        "beta_H": 0.3544033080130891,
+        "gradient": 4.208283358749909e-12,
+        "condition": 498.83755139908754,
+        "zero_excess_cells": 219,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 110091,
+          "positive_cells": 8811,
+          "all_zero_cells": 219,
+          "scaled_gram_min_eigenvalue": 0.03548986276245993,
+          "scaled_gram_max_eigenvalue": 2.138051377201497,
+          "rank_threshold": 2.138051377201497e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 4.547473508864641e-13
+    },
+    {
+      "channel": "Sad",
+      "fit_posts": 461821,
+      "excluded_posts": 74115,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 1.6043911247024865e-11,
+        "mixed_cells": 9508,
+        "zero_cells": 0,
+        "one_cells": 150,
+        "max_intercept_score": 1.9976376108843397e-10,
+        "iterations": 3,
+        "min_information_eigenvalue": 442.3439447038519,
+        "condition": 328.4631348722309
+      },
+      "positive_excess_ppml": {
+        "beta_H": -0.397403776959859,
+        "gradient": 9.000696417533332e-16,
+        "condition": 522.9640236395184,
+        "zero_excess_cells": 135,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 133937,
+          "positive_cells": 9523,
+          "all_zero_cells": 135,
+          "scaled_gram_min_eigenvalue": 0.05766155810536627,
+          "scaled_gram_max_eigenvalue": 2.248924868396122,
+          "rank_threshold": 2.248924868396122e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 2.7284841053187847e-12
+    },
+    {
+      "channel": "Wow",
+      "fit_posts": 435601,
+      "excluded_posts": 100335,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 8.218316659019597e-14,
+        "mixed_cells": 8698,
+        "zero_cells": 0,
+        "one_cells": 179,
+        "max_intercept_score": 1.999698184818044e-10,
+        "iterations": 3,
+        "min_information_eigenvalue": 390.3156205092392,
+        "condition": 325.87963101928307
+      },
+      "positive_excess_ppml": {
+        "beta_H": -0.261736969764971,
+        "gradient": 1.288335749039124e-14,
+        "condition": 269.55900933544154,
+        "zero_excess_cells": 518,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 104494,
+          "positive_cells": 8359,
+          "all_zero_cells": 518,
+          "scaled_gram_min_eigenvalue": 0.05881992360783813,
+          "scaled_gram_max_eigenvalue": 2.135298971082265,
+          "rank_threshold": 2.135298971082265e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 8.526512829121202e-14
+    },
+    {
+      "channel": "Comments",
+      "fit_posts": 492222,
+      "excluded_posts": 43714,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 2.1692892831952943e-12,
+        "mixed_cells": 9724,
+        "zero_cells": 0,
+        "one_cells": 1484,
+        "max_intercept_score": 1.9962342889812135e-10,
+        "iterations": 3,
+        "min_information_eigenvalue": 320.8417218182667,
+        "condition": 320.02138582008985
+      },
+      "positive_excess_ppml": {
+        "beta_H": -0.1514901146502408,
+        "gradient": 7.213825179928241e-13,
+        "condition": 378.2720977718103,
+        "zero_excess_cells": 231,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 278238,
+          "positive_cells": 10977,
+          "all_zero_cells": 231,
+          "scaled_gram_min_eigenvalue": 0.04779755414056037,
+          "scaled_gram_max_eigenvalue": 2.1525494615239253,
+          "rank_threshold": 2.1525494615239255e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 3.410605131648481e-13
+    },
+    {
+      "channel": "Shares",
+      "fit_posts": 491929,
+      "excluded_posts": 44007,
+      "logit": {
+        "keep": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "gradient": 6.332208900893342e-15,
+        "mixed_cells": 9118,
+        "zero_cells": 0,
+        "one_cells": 2296,
+        "max_intercept_score": 1.99994687477556e-10,
+        "iterations": 4,
+        "min_information_eigenvalue": 139.0553069190849,
+        "condition": 483.852893149421
+      },
+      "positive_excess_ppml": {
+        "beta_H": 0.009563311480290373,
+        "gradient": 3.4767040616685774e-14,
+        "condition": 369.0666538923995,
+        "zero_excess_cells": 288,
+        "dropped_controls": 0,
+        "separation": {
+          "no_additional_slope_separation_certified": true,
+          "status": "full_positive_row_within_cell_rank",
+          "positive_row_within_cell_rank": 9,
+          "slope_columns": 9,
+          "positive_rows": 293019,
+          "positive_cells": 11126,
+          "all_zero_cells": 288,
+          "scaled_gram_min_eigenvalue": 0.056392868876245596,
+          "scaled_gram_max_eigenvalue": 2.181772785127529,
+          "rank_threshold": 2.1817727851275288e-10,
+          "relative_tolerance": 1e-10,
+          "method": "Within-cell centered positive-response design Gram, independent of optimizer and fitted means"
+        }
+      },
+      "identity_max_error": 1.1368683772161603e-12
+    }
+  ],
+  "interpretation": "Point summaries of a separately defined joint adjusted model, not decomposition of the full-release OLS or single PPML parameter. Positive-count support selects outcomes; populations differ across channels. Boundary occurrence0/1 and zero positive-excess cells are fitted boundary assumptions, not known structural population zeros. NN0.5 row restriction changes standardization only and does not refit; no causal attribution or validated confidence intervals."
+}

@@ -1,0 +1,7 @@
+{
+  "release_sha256": "f6f77b5192f6bbe1dea64225deeb5944d9b6b838896d00842c64062558ccccdd",
+  "selected_records": 6925,
+  "unique_release_rows": 4747,
+  "original_OLS_order_matches_first_1000": true,
+  "identity": "SHA256 of release file digest + literal :RDS-row-1based: + original 1-based RDS row. Not a platform ID."
+}

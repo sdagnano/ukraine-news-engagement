@@ -1,0 +1,113 @@
+{
+  "description": "Exact upstream inputs; not redistributed in this repository.",
+  "files": [
+    {
+      "path": "input/fb_proua_full_osf.RDS",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/64cfa5c0c7ab29379ed4e020",
+      "source_name": "fb_proua_full_osf.RDS",
+      "file_id": "64cfa5c0c7ab29379ed4e020",
+      "revision": 1,
+      "download_url": "https://osf.io/download/za34k/?revision=1",
+      "sha256": "f6f77b5192f6bbe1dea64225deeb5944d9b6b838896d00842c64062558ccccdd",
+      "bytes": 26784341
+    },
+    {
+      "path": "input/tw_proua_full_osf.RDS",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/64cfa5db4f0a44419399452b",
+      "source_name": "tw_proua_full_osf.RDS",
+      "file_id": "64cfa5db4f0a44419399452b",
+      "revision": 1,
+      "download_url": "https://osf.io/download/qxv4k/?revision=1",
+      "sha256": "43dca01cc35b4d5cc309557ebd234ebd857da017ee0b348c1aeb0f68900b3409",
+      "bytes": 5373280
+    },
+    {
+      "path": "input/host_val_osf.csv",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/666e33fa65e1de5c0889441c",
+      "source_name": "host_val_osf.csv",
+      "file_id": "666e33fa65e1de5c0889441c",
+      "revision": 1,
+      "download_url": "https://osf.io/download/ycfbx/?revision=1",
+      "sha256": "aa9cb9806ca943ad82a1ce50bab5241d4994d20a8ef25dd130dd65e8c3d6ba9f",
+      "bytes": 7815
+    },
+    {
+      "path": "input/sol_val_osf.csv",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/666e33fb77ff4c5c95e04c3d",
+      "source_name": "sol_val_osf.csv",
+      "file_id": "666e33fb77ff4c5c95e04c3d",
+      "revision": 1,
+      "download_url": "https://osf.io/download/666e33fb77ff4c5c95e04c3d/?revision=1",
+      "sha256": "8460d879c7323ebe4341bfac0319fd41d1354546e876be0048c3d6fd51d11cca",
+      "bytes": 23060
+    },
+    {
+      "path": "input/twgeo_val_osf.csv",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/666e33fd0f8c80159e3c9483",
+      "source_name": "twgeo_val_osf.csv",
+      "file_id": "666e33fd0f8c80159e3c9483",
+      "revision": 1,
+      "download_url": "https://osf.io/download/666e33fd0f8c80159e3c9483/?revision=1",
+      "sha256": "c953f026e7423f825c1f6a7cc0d94ed579285427663d0184572dd8bf1d9d0c1f",
+      "bytes": 41153
+    },
+    {
+      "path": "input/pipal_final_dataset.rds",
+      "role": "analysis_input",
+      "source_project": "https://osf.io/68cje/",
+      "source_file": "https://osf.io/68cje/files/osfstorage/61ec3c31133169023f992f78",
+      "source_name": "final_dataset.rds",
+      "file_id": "61ec3c31133169023f992f78",
+      "revision": 1,
+      "download_url": "https://osf.io/download/49xty/?revision=1",
+      "sha256": "904d1f37c59549a65b12aa0dbd0751d885e7b84d1c2038a546a7cfca12ace8db",
+      "bytes": 65089420
+    },
+    {
+      "path": "evidence/original_code/helper.R",
+      "role": "provenance",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/64cfa66b9cbf034ae51e4659",
+      "source_name": "helper.R",
+      "file_id": "64cfa66b9cbf034ae51e4659",
+      "revision": 3,
+      "download_url": "https://osf.io/download/p6ktd/?revision=3",
+      "sha256": "f343335d55bef7f632a7541b1798f5428486bd11d121ce371cf790296329e5a5",
+      "bytes": 23625
+    },
+    {
+      "path": "evidence/original_code/study-i.R",
+      "role": "provenance",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/64cfa7c4c7ab2937afd4df57",
+      "source_name": "study-i.R",
+      "file_id": "64cfa7c4c7ab2937afd4df57",
+      "revision": 2,
+      "download_url": "https://osf.io/download/q4kcw/?revision=2",
+      "sha256": "0213145557036d2a337d726bfc75d3b749e58a4b6ffee65b325aa82adfce8db4",
+      "bytes": 33445
+    },
+    {
+      "path": "evidence/original_code/study-ii.R",
+      "role": "provenance",
+      "source_project": "https://osf.io/rmc3e/",
+      "source_file": "https://osf.io/rmc3e/files/osfstorage/64cfa7c12fe4963bea61b12f",
+      "source_name": "study-ii.R",
+      "file_id": "64cfa7c12fe4963bea61b12f",
+      "revision": 2,
+      "download_url": "https://osf.io/download/eq4bh/?revision=2",
+      "sha256": "754c3f75d99b63145f56b3fa865c2ece804dec95e7739acd54de9e912b0d6c60",
+      "bytes": 35493
+    }
+  ]
+}

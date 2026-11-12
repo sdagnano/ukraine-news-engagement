@@ -1,0 +1,3 @@
+design,scenario,method,n,sources,cells,blocks,family,replicates,valid,invalid_fraction,family_noncoverage,MC_low,MC_high,false_opposition
+full,source_and_block_slopes,PPML,535936,84,14689,15,8,100,100,0.0,0.3,0.2189488529493276,0.3958485463334666,0.0
+full,source_and_block_slopes,any_OLS,535936,84,14689,15,8,100,100,0.0,0.01,0.0017674320641406505,0.054486196178705315,

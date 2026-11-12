@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-10-26T21:39:24.756848+00:00",
+  "exploratory_after_review": true,
+  "preregistered": false,
+  "seed": 918347,
+  "requested_refits": {
+    "subsample_independent_NB": 500,
+    "full_source_and_block_slopes": 100
+  },
+  "replay_only": {
+    "subsample_source_slopes": 500,
+    "subsample_source_and_block_slopes": 500
+  },
+  "primary_inference_decision": "No method selected to repair favorable significance. Recover channel and operational diagnostics; population-sign claims are withdrawn in favor of finite-release descriptions.",
+  "input_hashes": {
+    "analysis/r6_inference_audit.py": "80390b628eb638e84a8e879d7b86def9cba8bddc9d607a7d9133056ba6286f7b",
+    "analysis/empirical_calibration.py": "bc7faec970a4d142696b14bc7649f2af3f1377916b2f7c0a7fd6044175499e24",
+    "analysis/cell_models.py": "3a97d0ba447926f8d7881b68c946380abfa4fc9bc56d297f9cb8c023a4a24e44",
+    "results/calibration_pools.npz": "9178ff1d2849a28ae8a11f3e8af58b7bbc67ce330239f553970234fe99e83ca5",
+    "results/calibration_subsample_rows.npy": "69ba90cad6b1bf831da4e1ffc15abe1cf57e5dd7d66c289c08cdbe717d564ee7"
+  }
+}

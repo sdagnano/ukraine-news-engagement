@@ -1,0 +1,9 @@
+{
+  "n": 535936,
+  "sources": 84,
+  "dates": 200,
+  "cells": 14689,
+  "origins": "All integer offsets 0,...,width-1 for widths 7,14,28, relative to 2022-02-25. Partial boundary blocks are retained; df changes with block count.",
+  "score": "Post-level estimating-equation influence sums by source and calendar date. Daily ACF uses source-wise demeaning over all 200 dates; signed cross-source lag cross-products are descriptive and can exceed the daily-energy normalization.",
+  "limitation": "Observed score autocorrelation cannot identify a true dependence horizon. Two-way source/block clustering omits different-source different-block covariance. Alternative origins and Bartlett HAC are diagnostics, not validated confidence procedures."
+}

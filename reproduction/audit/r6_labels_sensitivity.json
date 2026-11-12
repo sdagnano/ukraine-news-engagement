@@ -1,0 +1,12 @@
+{
+  "OLS_selected_path_first_PPML_point_sign_crossing": 202,
+  "OLS_selected_path_first_working_interval_sign_loss": 40,
+  "interval_scan_every_integer_through": 40,
+  "interval_interpretation": "Path-specific working Bonferroni-eight t14 interval; known calibration failures prevent nominal confidence claim",
+  "null_score_identity": "S(H)=H.T@(Y-mu_null); nuisance and cell null fit excludes H and does not change with candidate H",
+  "sharpness_argument": "Concave profile likelihood, finite unique identified fitted slope; its sign equals null profile-score sign. Largest beneficial unit-cost score reductions minimize correction count within declared class. Verified finite fits on both boundary sides.",
+  "elapsed_seconds": 70.82412624359131,
+  "n": 535936,
+  "positive_labels": 185804,
+  "nuisance_columns": 8
+}

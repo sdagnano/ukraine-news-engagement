@@ -1,0 +1,11 @@
+{
+  "cell_OLS_coefficient_error": 3.608224830031759e-16,
+  "profile_score_full_dummy": 7.274460278594574e-08,
+  "cell_PPML_delta_gradient_error": 2.0816681711721685e-17,
+  "heterogeneous_PPML_finite_gradient_error": 9.77797703916039e-13,
+  "generalized_CR2_variance_error": 1.474514954580286e-17,
+  "generalized_CR2_df_error": 8.881784197001252e-16,
+  "adversarial_tipping_matches_exhaustive": true,
+  "REML_profile_vs_dense_error": 1.3165080137156338e-11,
+  "passed": true
+}

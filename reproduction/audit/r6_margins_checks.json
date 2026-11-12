@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "table_rows": {
+    "support": 64,
+    "adjusted_two_part": 16,
+    "two_part_boundaries": 8,
+    "first_action_identity": 8,
+    "source_weight_summary": 4,
+    "time_slopes": 32,
+    "tail_action_concentration": 27,
+    "support_refits": 32
+  },
+  "max_post_symmetric_identity_error": 2.7284841053187847e-12,
+  "max_mean_symmetric_identity_error": 3.552713678800501e-15,
+  "max_model_means_difference_error": 2.1316282072803006e-14,
+  "max_first_action_linear_identity_error": 7.105427357601003e-14,
+  "max_source_weight_identity_error": 2.220446049250313e-16,
+  "max_full_release_OLS_reproduction_error": 0.0,
+  "max_full_release_PPML_RR_reproduction_error": 1.1102230246251565e-16,
+  "max_tail_vs_full_OLS_coefficient_error": 4.263256414560601e-14,
+  "no_additional_Poisson_slope_separation_certificates": 48,
+  "all_Poisson_slope_separation_certificates_passed": true,
+  "maximum_two_part_logit_normalized_slope_score": 1.6043911247024865e-11,
+  "maximum_two_part_excess_PPML_normalized_score": 4.208283358749909e-12,
+  "maximum_support_refit_PPML_normalized_score": 6.513927202515996e-12,
+  "logistic_validation": {
+    "passed": true,
+    "seed": 503172,
+    "logit_vs_full_dummy_coefficient_max_error": 1.484227185599707e-10,
+    "logit_vs_full_dummy_prediction_max_error": 1.1536249733268278e-10,
+    "symmetric_decomposition_max_error": 1.4210854715202004e-14,
+    "full_dummy_optimizer_method": "scipy trust-exact, analytic full-dummy Hessian",
+    "full_dummy_optimizer_success": true,
+    "full_dummy_score": 9.580897186722837e-10
+  }
+}
